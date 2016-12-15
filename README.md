@@ -9,7 +9,8 @@ A minimal starter project for typescript, react and webpack - This project is a 
 
 # To Run Project
 1. Clone repo
-2. Create a file in the src folder called "api_key.ts"
-3  export const API_KEY = '<youtube_data_v3_api_key>';
+2. Create a file in the src folder called 'api_key.ts'
+3. Enter the following line in the new file: export const API_KEY = 'youtube_data_v3_api_key'
 4. At command prompt type - npm install
 5. At command prompt type - webpack
+
