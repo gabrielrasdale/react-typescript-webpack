@@ -1,5 +1,5 @@
 # react-typescript-webpack
-A minimal starter project for typescript, react and webpack
+A minimal starter project for typescript, react and webpack - This project is a TypeScript version of the example created by Stephen Grider in his React Reduc course on Udemy.
 
 # Prerequisites
 1. Nodejs - https://nodejs.org/en/
@@ -9,5 +9,7 @@ A minimal starter project for typescript, react and webpack
 
 # To Run Project
 1. Clone repo
-2. At command prompt type - npm install
-3. At command prompt type - webpack
+2. Create a file in the src folder called "api_key.ts"
+3  export const API_KEY = '<youtube_data_v3_api_key>';
+4. At command prompt type - npm install
+5. At command prompt type - webpack
