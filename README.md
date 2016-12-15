@@ -1,5 +1,5 @@
 # react-typescript-webpack
-A minimal starter project for typescript, react and webpack - This project is a TypeScript version of the example created by Stephen Grider in his React Reduc course on Udemy.
+A minimal starter project for typescript, react and webpack - This project is a TypeScript version of the example created by Stephen Grider in his React Redux course on Udemy.
 
 # Prerequisites
 1. Nodejs - https://nodejs.org/en/
